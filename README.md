@@ -1,6 +1,7 @@
 # QueueProjects
 
-<div dir="rtl" align='right'>
+
+    <div dir='rtl' align="center">
     به نام پروردگار هدایت کننده به راه راست
 
   دانشگاه اصفهان
@@ -75,7 +76,5 @@
 
 
 
-
-</div>
 
 </div>
