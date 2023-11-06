@@ -1,7 +1,7 @@
 # QueueProjects
 
 
-    <div dir='rtl' align="center">
+<div dir='rtl' align="center">
     
     به نام پروردگار هدایت کننده به راه راست
 
